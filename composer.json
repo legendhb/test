@@ -1,0 +1,12 @@
+{
+  "name": "legendhb/test-package",
+  "description": "igg member cgi system.",
+  "type": "project",
+  "homepage": "http://cgi.igg.com",
+  "require": {
+    "php": ">=7.0.0",
+    "monolog/monolog": "^1.23"
+  },
+  "minimum-stability": "stable"
+}
+
