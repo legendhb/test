@@ -1,8 +1,8 @@
 {
   "name": "legendhb/test-package",
-  "description": "igg member cgi system.",
+  "description": "this is a test package just for demonstration.",
   "type": "project",
-  "homepage": "http://cgi.igg.com",
+  "homepage": "http://legendhb.cc/",
   "require": {
     "php": ">=7.0.0",
     "monolog/monolog": "^1.23"
